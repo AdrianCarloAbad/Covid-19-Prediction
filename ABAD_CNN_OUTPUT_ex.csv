@@ -1,0 +1,17 @@
+,diagnosis*
+pic1,N
+pic2,N
+pic3,C
+pic4,P
+pic5,P
+pic6,P
+pic7,C
+pic8,C
+pic9,P
+pic10,C
+,
+,
+*please write:,
+N - Normal,
+C - Covid,
+V - Viral Pneumonia ,
